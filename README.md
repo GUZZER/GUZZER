@@ -7,8 +7,8 @@
 <div align="left">
     
   <a href="https://github.com/guzzer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guzzer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img align="right" alt="Rafa-pic" height="180" style="border-radius:50px;" src="http://github-readme-streak-stats.herokuapp.com?user=GUZZER&theme=dark&hide_border=verdadeiro&locale=pt-br)](https://git.io/streak-stats"
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guzzer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="http://github-readme-streak-stats.herokuapp.com?user=GUZZER&theme=dark&hide_border=verdadeiro&locale=pt-br)](https://git.io/streak-stats"
     </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Guzzer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
