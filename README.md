@@ -1,8 +1,8 @@
-<h2> Bem vindo, gafanhoto! </h2>
 
-🔹Atualmente trabalhando com Banco de Dados 
+
+🔹Trabalhando com C# .Net, Angular e JavaScript
 <br>
-🔹Cursando Análise e Desenvolvimento de Sistemas 
+🔹Cursando Análise e Desenvolvimento de Sistemas (Unilavras)
 
 <div align="left">
     
