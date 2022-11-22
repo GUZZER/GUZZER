@@ -1,6 +1,6 @@
 
 
-🔹Trabalhando com C# .Net, Angular e JavaScript
+🔹Trabalhando com C#, .Net, Angular e JavaScript
 <br>
 🔹Cursando Análise e Desenvolvimento de Sistemas (Unilavras)
 
